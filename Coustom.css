@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+
+body{
+  direction: rtl;
+  background-color: black;
+  font-family: 'Cairo', sans-serif;
+}
+
+/*.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}*/
+
+.carousel{
+  
+}
+
+
+  .container-fluid img{
+   border-radius: 50%;
+   background-color: white;
+   width: 70px;
+   height: 60px;
+ }
+    
+.container-fluid a{
+  color: white !important;
+  font-size: 25px;
+}
+
+
+    
+    
+.jumbotron{
+  margin-top: 40px;
+  font-size: 30px;
+  border: 10px solid white;
+}
+
+
+.cardt{
+    margin-top: 10px;
+    border: 10px solid white!important;
+}
+.card img{
+    border: 4px solid gold;
+    margin-top: 20px;
+    
+}
+.well{
+    padding: 10px;
+   font-size: 30px;
+}
+.dropdown-menu a{
+    color:white;
+    background-color: black;
+}
+.well h4{
+    font-size: 25px;
+    text-shadow: 5px 3px blueviolet;
+}
+.col-md-8 h1{
+    font-size: 40px !important;
+   text-shadow: 3px 2px white;
+}
+.cardt h5{
+    font-size: 30px;
+    text-shadow: 3px 2px white;
+    color: blue;
+}
+.cardt a{
+    font-size: 25px;
+}
+.row a{
+    font-size: 23px !important;
+}
+.card-group img{
+    border-radius: 50%;
+}
+   
+   
+.container{
+  max-width: 100%;
+  margin-top: 40px;
+}
+
+
+/*Footer*/
+.footer-copyright{
+  text-shadow: 2px 1px yellow;
+  font-size: 25px;
+  max-width: 100%;
+}
+.input-group button    {
+  background-color: red !important;
+}
+
+
+          
